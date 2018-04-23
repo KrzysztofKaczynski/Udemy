@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ea587a6-62a8-4073-80b6-05298ee93298" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1090091.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1151818.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1159256.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1198274.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1252225.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1253038.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1254557.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1370401.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1407566.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1444505.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1609995.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1633698.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1840563.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1862912.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1951090.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2001975.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2011218.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2019654.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2070313.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2117409.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2146045.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2211333.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2447871.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2464059.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2514997.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2617542.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2712362.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2759032.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2795082.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2808945.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2816123.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2822962.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2850718.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2866285.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2934021.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3151093.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3181842.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3297727.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3358298.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3428528.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3451228.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3457607.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3486431.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3492966.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3625229.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3702866.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3736320.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3927549.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4420830.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4441003.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4455446.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4526004.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4613836.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4669302.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4728154.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5059308.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5068151.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5142924.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5217296.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5380528.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5383372.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5416491.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5440147.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5465106.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5724962.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5792535.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5811723.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5832463.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5901779.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5912916.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5923697.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6047214.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6148150.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6251058.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6303664.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6348163.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6431005.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6436980.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6490223.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6588802.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6591786.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6608012.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6853345.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6909023.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6913740.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6974167.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7049653.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7070060.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7160895.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7379707.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7926515.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8166542.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8343991.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8453827.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8463933.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8557898.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8594067.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8640373.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8663115.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8705893.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8770292.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8900175.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9001338.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9066467.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9103253.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9112329.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9325379.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9358005.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9384545.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9461799.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9523817.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9537086.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9563693.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9604237.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9670847.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9688484.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9924786.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9931566.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9942577.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9972071.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/.idea/RuszGlowa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/RuszGlowa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/src/Pies/Pies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/src/ksiazka/Ksiazka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/src/ksiazka/KsiazkaTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/src/perkusja/Perkusja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa/src/perkusja/PerkusjaTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa1/src/Cwiczenie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa1/src/Cwiczenie1b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa1/src/Cwiczenie1c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa1/src/Magnesiki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/RuszGlowa1/src/PiosenkaOPiwie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/Sierra K. - Java. Rusz głową! - Wydanie 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RuszGlowa/java-rusz-glowa-wydanie-ii-kathy-sierra-bert-bates (1).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/out/production/Array/pl/sda/array/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/out/production/Array/pl/sda/primitive_vs_reference/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/out/production/Array/pl/sda/varargs/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/out/production/Array/pl/sda/varargs/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/src/pl/sda/array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/src/pl/sda/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/src/pl/sda/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/src/pl/sda/primitive_vs_reference/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/src/pl/sda/primitive_vs_reference/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/src/pl/sda/varargs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Array/src/pl/sda/varargs/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/Objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/out/production/Objects/pl/sda/model/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/out/production/Objects/pl/sda/model/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/out/production/Objects/pl/sda/model/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/src/pl/sda/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/src/pl/sda/model/Fiat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/src/pl/sda/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/Objects/src/pl/sda/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/pc/peripherials/Peripherials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/pc/peripherials/parts/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/pc/peripherials/parts/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/pc/peripherials/parts/GPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/pc/peripherials/parts/HardwarePart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/pc/peripherials/parts/Mbo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/pc/peripherials/parts/PowerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/PC/src/pc/peripherials/parts/PowerSupply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/SDALap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/base/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/inheritance/average/Aeroplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/inheritance/average/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/inheritance/average/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/inheritance/average/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/inheritance/simple/Aeroplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/inheritance/simple/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/inheritance/simple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/inheritance/simple/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/polymorphism/casting/Aeroplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/polymorphism/casting/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/polymorphism/casting/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/polymorphism/casting/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/polymorphism/simple/Aeroplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/polymorphism/simple/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/polymorphism/simple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/java-introductory-course-43c35ef34d06f36f9eb072082361e6f84f0f7fd6/src/main/java/pl/com/empas/java_introductory_course/polymorphism/simple/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/out/production/SDALap/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/out/production/SDALap/primitive/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/out/production/SDALap/primitive/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/out/production/SDALap/varargs/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/out/production/SDALap/varargs/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/out/production/SDALap/varargs/Person2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/src/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/src/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/src/primitive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/src/primitive/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/src/varargs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/src/varargs/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDALap/src/varargs/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/.idea/Dziedziczenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build/classes/dziedziczenie/Dziedziczenie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build/classes/dziedziczenie/Pajak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build/classes/dziedziczenie/potwory/Potwor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build/classes/dziedziczenie/potwory/Szkielet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/build/classes/dziedziczenie/potwory/Zombie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/dist/Dziedziczenie.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/src/dziedziczenie/Dziedziczenie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/src/dziedziczenie/Pajak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/src/dziedziczenie/potwory/Potwor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/src/dziedziczenie/potwory/Szkielet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dziedziczenie/src/dziedziczenie/potwory/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyjątki/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyjątki/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyjątki/Wyjątki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyjątki/src/arrayList/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyjątki/src/butelka/Butelka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyjątki/src/typygeneryczne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyjątki/src/wildcards/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-introductory-course" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/linkedList/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/twoList/TwoList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TwoList">
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.LinkedList" />
+      <module name="LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twoList.TwoList" />
+      <module name="LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twoList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.LinkedList" />
+      <item itemvalue="Application.TwoList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoList" />
+        <item itemvalue="Application.LinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea587a6-62a8-4073-80b6-05298ee93298" name="Default" comment="" />
+      <created>1523555210909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523555210909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="right" id="Run" order="8" weight="0.30030257" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14901665" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32954547" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twoList/TwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/twoList/TwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
