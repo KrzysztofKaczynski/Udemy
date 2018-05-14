@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/APPswing/APPswing.iml" filepath="$PROJECT_DIR$/APPswing/APPswing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dokumentowanie/Dokumentowanie.iml" filepath="$PROJECT_DIR$/Dokumentowanie/Dokumentowanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstanceOF/InstanceOF.iml" filepath="$PROJECT_DIR$/InstanceOF/InstanceOF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5 - menadżer GroupLayout1/JavaApplication87/JavaApplication87.iml" filepath="$PROJECT_DIR$/Lekcja 5 - menadżer GroupLayout1/JavaApplication87/JavaApplication87.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStartWątki/JavaStartWątki.iml" filepath="$PROJECT_DIR$/JavaStartWątki/JavaStartWątki.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jframe/Jframe.iml" filepath="$PROJECT_DIR$/Jframe/Jframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasyAnonimowe/KlasyAnonimowe.iml" filepath="$PROJECT_DIR$/KlasyAnonimowe/KlasyAnonimowe.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasyWewnetrzne/KlasyWewnetrzne.iml" filepath="$PROJECT_DIR$/KlasyWewnetrzne/KlasyWewnetrzne.iml" />
       <module fileurl="file://$PROJECT_DIR$/KolekcjaZbiorMapaLista/KolekcjaZbiorMapaLista.iml" filepath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/KolekcjaZbiorMapaLista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5 - menadżer GroupLayout1/Lekcja 5 - menadżer GroupLayout1.iml" filepath="$PROJECT_DIR$/Lekcja 5 - menadżer GroupLayout1/Lekcja 5 - menadżer GroupLayout1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metody/Metody.iml" filepath="$PROJECT_DIR$/Metody/Metody.iml" />
       <module fileurl="file://$PROJECT_DIR$/Udemy.iml" filepath="$PROJECT_DIR$/Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wyjątki/Wyjątki.iml" filepath="$PROJECT_DIR$/Wyjątki/Wyjątki.iml" />
       <module fileurl="file://$PROJECT_DIR$/WyrazeniaLambda/WyrazeniaLambda.iml" filepath="$PROJECT_DIR$/WyrazeniaLambda/WyrazeniaLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YouTube/YouTube.iml" filepath="$PROJECT_DIR$/YouTube/YouTube.iml" />
     </modules>
   </component>
 </project>
